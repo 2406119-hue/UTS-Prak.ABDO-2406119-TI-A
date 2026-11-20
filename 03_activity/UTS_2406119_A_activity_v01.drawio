@@ -1,0 +1,151 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="N7vgcwhx4wGMIqe_H2-s">
+        <mxGraphModel dx="760" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengguna" vertex="1">
+                    <mxGeometry height="1190" width="330" x="120" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-7" edge="1" parent="H6NfubATalSrfBw_G7OZ-1" source="H6NfubATalSrfBw_G7OZ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="H6NfubATalSrfBw_G7OZ-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-5" parent="H6NfubATalSrfBw_G7OZ-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="140" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-6" parent="H6NfubATalSrfBw_G7OZ-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); text-align: left;&quot;&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); text-align: left; background-color: rgb(236, 236, 236); float: none; display: inline !important; color: rgb(0, 0, 0);&quot;&gt;Mahasiswa pemohon Mengajukan Basiswa&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="95" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-16" parent="H6NfubATalSrfBw_G7OZ-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;Mahasiswa pemohon mengisi setiap syrat dan ketentuan beasiswa&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="95" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-1" parent="H6NfubATalSrfBw_G7OZ-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;Mahasiswa pemohon memeriksa setiap syrat dan ketentuan beasiswa&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="95" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-14" edge="1" parent="H6NfubATalSrfBw_G7OZ-1" source="Z4O9VDWBFpoXodkeIAGh-10" style="edgeStyle=none;html=1;" target="Z4O9VDWBFpoXodkeIAGh-13" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-10" parent="H6NfubATalSrfBw_G7OZ-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;Mahasiswa pemohon mengisi setiap syrat dan ketentuan beasiswa&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="95" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-11" edge="1" parent="H6NfubATalSrfBw_G7OZ-1" source="H6NfubATalSrfBw_G7OZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="Z4O9VDWBFpoXodkeIAGh-10" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="155" y="480" as="sourcePoint"/>
+                        <mxPoint x="430" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-13" parent="H6NfubATalSrfBw_G7OZ-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;Mahasiswa pemohon mengisi setiap syrat dan ketentuan beasiswa&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="95" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-22" parent="H6NfubATalSrfBw_G7OZ-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;Mahasiswa Pemohon mengklik ya&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="90" y="740" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
+                    <mxGeometry height="1180" width="330" x="450" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-11" edge="1" parent="H6NfubATalSrfBw_G7OZ-3" source="H6NfubATalSrfBw_G7OZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="H6NfubATalSrfBw_G7OZ-10">
+                    <mxGeometry relative="1" x="0.1538" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="165" y="170"/>
+                            <mxPoint x="280" y="170"/>
+                            <mxPoint x="280" y="300"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-9" edge="1" parent="H6NfubATalSrfBw_G7OZ-3" source="H6NfubATalSrfBw_G7OZ-8" style="edgeStyle=none;html=1;" target="Z4O9VDWBFpoXodkeIAGh-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-8" parent="H6NfubATalSrfBw_G7OZ-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); text-align: left; background-color: rgb(236, 236, 236); float: none; display: inline !important; color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;Sistem memperlihatkan syrat dan ketentuan Pengajuan Beasiswa&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;&lt;br style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); text-align: left;&quot;&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="105" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-14" edge="1" parent="H6NfubATalSrfBw_G7OZ-3" source="H6NfubATalSrfBw_G7OZ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="H6NfubATalSrfBw_G7OZ-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-32" connectable="0" parent="H6NfubATalSrfBw_G7OZ-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="tersedia" vertex="1">
+                    <mxGeometry relative="1" x="-0.0809" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-10" parent="H6NfubATalSrfBw_G7OZ-3" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&amp;nbsp;Sistem menyuruh mengisi setiap syrat dan ketentuan&amp;nbsp;" vertex="1">
+                    <mxGeometry height="80" width="160" x="85" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-12" parent="H6NfubATalSrfBw_G7OZ-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Mahasiswa baru Melampirkan Bukti Kelulusan SMA" vertex="1">
+                    <mxGeometry height="60" width="100" x="30" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-30" edge="1" parent="H6NfubATalSrfBw_G7OZ-3" source="H6NfubATalSrfBw_G7OZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="H6NfubATalSrfBw_G7OZ-29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-27" parent="H6NfubATalSrfBw_G7OZ-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); background-color: rgb(236, 236, 236); float: none; display: inline !important; color: rgb(0, 0, 0);&quot;&gt;Sistem Menunjukan bahwa pengajuan menunggu validasi&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); color: rgb(63, 63, 63);&quot;&gt;&lt;br style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); text-align: left; color: rgb(63, 63, 63);&quot;&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="150" x="110" y="850" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-29" parent="H6NfubATalSrfBw_G7OZ-3" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="170" y="1000" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-3" parent="H6NfubATalSrfBw_G7OZ-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Mahasiswa Lama Melampirkan Transkip Nilai" vertex="1">
+                    <mxGeometry height="60" width="100" x="210" y="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-4" edge="1" parent="H6NfubATalSrfBw_G7OZ-3" source="H6NfubATalSrfBw_G7OZ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.781;exitY=0.875;exitDx=0;exitDy=0;entryX=0.408;entryY=-0.016;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitPerimeter=0;" target="Z4O9VDWBFpoXodkeIAGh-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="165" y="330" as="sourcePoint"/>
+                        <mxPoint x="110" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-5" connectable="0" parent="Z4O9VDWBFpoXodkeIAGh-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="tersedia" vertex="1">
+                    <mxGeometry relative="1" x="-0.0809" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-6" parent="H6NfubATalSrfBw_G7OZ-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;br style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); text-align: left; background-color: rgb(236, 236, 236); float: none; display: inline !important; color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;Sistem memperlihatkan syrat dan ketentuan Pengajuan Beasiswa&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;&lt;br style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20); text-align: left;&quot;&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="105" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-20" edge="1" parent="H6NfubATalSrfBw_G7OZ-3" source="Z4O9VDWBFpoXodkeIAGh-18" style="edgeStyle=none;html=1;" target="Z4O9VDWBFpoXodkeIAGh-19" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-21" connectable="0" parent="Z4O9VDWBFpoXodkeIAGh-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="ya" vertex="1">
+                    <mxGeometry relative="1" x="-0.3538" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-18" parent="H6NfubATalSrfBw_G7OZ-3" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="pop up&amp;nbsp;" vertex="1">
+                    <mxGeometry height="90" width="90" x="120" y="595" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-22" edge="1" parent="H6NfubATalSrfBw_G7OZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="Z4O9VDWBFpoXodkeIAGh-22">
+                    <mxGeometry relative="1" x="0.0457" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="210" y="780"/>
+                        </Array>
+                        <mxPoint x="210" y="760" as="sourcePoint"/>
+                        <mxPoint x="-110" y="805" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-19" parent="H6NfubATalSrfBw_G7OZ-3" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&amp;nbsp;Sistem Memunculkan pop up berhasil di ajukan" vertex="1">
+                    <mxGeometry height="60" width="100" x="115" y="750" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-9" edge="1" parent="1" source="H6NfubATalSrfBw_G7OZ-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="H6NfubATalSrfBw_G7OZ-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-17" edge="1" parent="1" source="H6NfubATalSrfBw_G7OZ-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="H6NfubATalSrfBw_G7OZ-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="H6NfubATalSrfBw_G7OZ-31" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="H6NfubATalSrfBw_G7OZ-27">
+                    <mxGeometry relative="1" x="-0.2889" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="270" y="910"/>
+                        </Array>
+                        <mxPoint x="270" y="840" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-2" edge="1" parent="1" source="Z4O9VDWBFpoXodkeIAGh-1" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="550" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Z4O9VDWBFpoXodkeIAGh-15" edge="1" parent="1" source="Z4O9VDWBFpoXodkeIAGh-13" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="570" y="670" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
